@@ -9,4 +9,10 @@
 C:/github/chatbot/main.c
 stdio.h
 -
+string.h
+-
+stdbool.h
+-
+stdlib.h
+-
 
